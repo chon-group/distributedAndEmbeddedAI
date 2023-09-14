@@ -2,7 +2,7 @@
    Project producerConsumer
 
    Gradle build file for Jason Application
-   setembro 14, 2023 - 11:30:02
+   setembro 14, 2023 - 12:50:54
 */
 
 defaultTasks 'run'
