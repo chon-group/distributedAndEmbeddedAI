@@ -16,3 +16,18 @@ In this course, students will:
 
 ## Content
 
+![approach.png](.imgs/approach.png)
+
++ Introduction
++ [Single-agent System](02-Single-agentSystem)
++ [Multi-agent System](03-Multi-agentSystem)
++ Communicator Agent
++ Mobile Agent
++ Embedded Agent
+
+## Copyright
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This course is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. The licensor cannot revoke these freedoms as long as you follow the license terms:
+
+* __Attribution__ — You must give __appropriate credit__ like below:
+
+LAZARIN, Nilson Mori; PANTOJA, Carlos Eduardo; VITERBO, José. Towards a Toolkit for Teaching AI Supported by Robotic-agents: Proposal and First Impressions. _In:_ WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (WEI), 31. , 2023, João Pessoa/PB. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 20-29. ISSN 2595-6175. DOI: https://doi.org/10.5753/wei.2023.229753. 
