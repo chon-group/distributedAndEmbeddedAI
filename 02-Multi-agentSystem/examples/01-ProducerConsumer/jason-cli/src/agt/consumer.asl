@@ -43,8 +43,8 @@ energy(0).
 	.wait(5000);
 	!lunch.
 
-+foodArrived(Product,Qtd)[source(Entregador)] <-
++foodArrived(Product,Qtd)[source(Vendor)] <-
 	?foodStock(X);
 	-+foodStock(X+Qtd);
 	.print("Food arrived, I'm happy!!!!");
-	-foodArrived(Product,Qtd)[source(Entregador)].
+	-foodArrived(Product,Qtd)[source(Vendor)].
