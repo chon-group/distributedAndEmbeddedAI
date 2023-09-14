@@ -1,0 +1,11 @@
+MAS producerConsumer {
+    
+    infrastructure: Centralised
+
+    agents: 
+        producer;
+        consumer;
+
+    aslSourcePath: 
+		"../agt";
+}

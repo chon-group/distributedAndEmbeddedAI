@@ -12,8 +12,10 @@
 
 MAS producerConsumer {
 
-    agents: producer;
-            consumer;
+    
+    agents: 
+        producer;
+        consumer;
 
     aslSourcePath: "src/agt";
 }

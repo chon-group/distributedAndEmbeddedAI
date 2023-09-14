@@ -14,6 +14,6 @@
 
 mas producerConsumer {
 
-    agent consumer: consumer.asl
-    agent producer: producer.asl
+    agent consumer: ../agt/consumer.asl
+    agent producer: ../agt/producer.asl
 }
