@@ -1,0 +1,10 @@
+MAS giacomoLife {
+    
+    infrastructure: Centralised
+
+    agents: 
+        giacomo;
+
+    aslSourcePath: 
+		"../agt";
+}
