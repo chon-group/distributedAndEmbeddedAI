@@ -1,4 +1,4 @@
-// Agent alice in project bankerChefGreedy
+// Agent banker in project bankerChefGreedy
 
 /*
 	The solution of this exercise is available at https://drive.google.com/drive/folders/1u5Wrm0Myla3ak81-b4i7vuELsbPFbN9M?usp=sharing

@@ -26,8 +26,8 @@ Below is an image with the expected output.
 
 ## Solution
 
-The solution of this exercise is available at ...
+The solution of this exercise is available at https://drive.google.com/drive/folders/1u5Wrm0Myla3ak81-b4i7vuELsbPFbN9M?usp=sharing
 
-+ Get the solution and change the content of file [banker.asl](agt/banker.asl)
-+ Get the solution and change the content of file [chef.asl](agt/chef.asl)
-+ Get the solution and change the content of file [greedy.asl](agt/greedy.asl)
++ Get the solution and change the content of file [banker.asl](agts/banker.asl)
++ Get the solution and change the content of file [chef.asl](agts/chef.asl)
++ Get the solution and change the content of file [greedy.asl](agts/greedy.asl)
