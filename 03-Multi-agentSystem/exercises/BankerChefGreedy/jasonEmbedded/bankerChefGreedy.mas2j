@@ -1,0 +1,12 @@
+MAS bankerChefGreedy {
+    
+    infrastructure: Centralised
+
+    agents: 
+        banker;
+        chef;
+        greedy;
+
+    aslSourcePath: 
+		"../agts";
+}

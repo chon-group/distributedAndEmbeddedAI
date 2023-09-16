@@ -1,0 +1,1 @@
+{ include("../agts/greedy.asl")}
