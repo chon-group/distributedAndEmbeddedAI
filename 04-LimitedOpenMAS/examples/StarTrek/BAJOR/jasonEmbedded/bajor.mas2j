@@ -1,0 +1,11 @@
+MAS bajor {
+
+    infrastructure: Centralised
+
+    agents:
+        kirk agentArchClass Communicator;
+
+    aslSourcePath: 
+    "../agts";
+
+}

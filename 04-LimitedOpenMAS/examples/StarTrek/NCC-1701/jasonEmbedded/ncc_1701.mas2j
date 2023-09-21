@@ -1,0 +1,11 @@
+MAS ncc_1701 {
+
+    infrastructure: Centralised
+    
+    agents:
+        uhura agentArchClass Communicator;
+        scott;
+
+    aslSourcePath: 
+    "../agts";
+}
