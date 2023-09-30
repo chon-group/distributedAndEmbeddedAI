@@ -21,7 +21,7 @@ In this course, students will:
 + Introduction
 + [Single-agent System](02-Single-agentSystem)
 + [Multi-agent System](03-Multi-agentSystem)
-+ Communicator Agent
++ [Communicator Agent](04-LimitedOpenMAS)
 + Mobile Agent
 + Embedded Agent
 

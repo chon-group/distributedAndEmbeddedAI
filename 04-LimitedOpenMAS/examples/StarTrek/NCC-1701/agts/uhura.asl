@@ -2,7 +2,7 @@
 // Gerar UUID aleatório ---> https://www.uuidgenerator.net/
 myUUID("49a13d91-5fb7-45ac-aad3-be05b6ce4c77").
 
-skyNet(skynet.chon.group,5500).		//public SkynetServer
+skyNet("skynet.chon.group",5500).		//public SkynetServer
 
 /* Objetivos Iniciais */
 !conf.

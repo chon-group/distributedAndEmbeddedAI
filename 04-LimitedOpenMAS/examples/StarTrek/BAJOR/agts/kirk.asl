@@ -2,7 +2,7 @@
 uhuraUUID("49a13d91-5fb7-45ac-aad3-be05b6ce4c77").	//https://www.uuidgenerator.net/
 myUUID("c94d0747-2faf-4902-8f0d-6d739f631305").
 
-skyNet(skynet.chon.group,5500).				//public SkynetServer
+skyNet("skynet.chon.group",5500).				//public SkynetServer
 
 /* Objetivo Inicial */
 !contact.

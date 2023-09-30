@@ -7,6 +7,6 @@ The practical activityinvolves programming a MAS with two agents that share beli
 The objective is for the student to know the BDI agent’s communication
 
 ### Content
-+ Presentation file [[PDF]](02-Multi-agentSystem.pdf)
++ Presentation file [[PDF]](Multi-agentSystem.pdf)
 + Examples
 + Exercises
