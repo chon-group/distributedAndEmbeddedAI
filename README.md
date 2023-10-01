@@ -19,10 +19,10 @@ In this course, students will:
 ![approach.png](.imgs/approach.png)
 
 + Introduction
-+ [Single-agent System](02-Single-agentSystem)
-+ [Multi-agent System](03-Multi-agentSystem)
-+ [Communicator Agent](04-LimitedOpenMAS)
-+ Mobile Agent
++ [Single-agent System](02-Single-agentSystem#02---single-agent-systems)
++ [Multi-agent System](03-Multi-agentSystem#03---multi-agent-systems)
++ [Communicator Agent](04-LimitedOpenMAS#04---communicator-agent)
++ [Mobile Agent](05-OpenMAS#05---mobile-agent)
 + Embedded Agent
 
 ## Copyright
