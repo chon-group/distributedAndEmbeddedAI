@@ -1,0 +1,12 @@
+MAS andoria {
+
+    infrastructure: Centralised
+
+    agents:
+        kirk agentArchClass Communicator;
+        spock;
+
+    aslSourcePath: 
+    "../agts";
+
+}
