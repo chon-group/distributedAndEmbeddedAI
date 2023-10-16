@@ -11,3 +11,4 @@ The objective is for the student to know the communication betweendifferent MAS
 + Examples
     + [StarTrek](examples/StarTrek/)
 + Exercises
+    + [BankerChefGreedy](exercises/BankerChefGreedy/)
