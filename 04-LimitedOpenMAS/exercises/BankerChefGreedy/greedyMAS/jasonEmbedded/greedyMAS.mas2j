@@ -1,0 +1,10 @@
+MAS greedyMAS {
+    
+    infrastructure: Centralised
+
+    agents: 
+        greedy agentArchClass Communicator;
+
+    aslSourcePath: 
+		"../agts";
+}

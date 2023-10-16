@@ -1,0 +1,10 @@
+MAS bankerMAS {
+    
+    infrastructure: Centralised
+
+    agents: 
+        banker agentArchClass Communicator;
+
+    aslSourcePath: 
+		"../agts";
+}

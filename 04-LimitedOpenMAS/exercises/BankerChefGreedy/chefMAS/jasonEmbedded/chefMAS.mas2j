@@ -1,0 +1,10 @@
+MAS chefMAS {
+    
+    infrastructure: Centralised
+
+    agents: 
+        chef agentArchClass Communicator;
+
+    aslSourcePath: 
+		"../agts";
+}
