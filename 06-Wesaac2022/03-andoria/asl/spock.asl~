@@ -1,0 +1,32 @@
+// Agente A
+/* Initial beliefs and rules */
+abroad(yes).
+/* Initial goals */
+
+!start.
+
+/* Plans */
+
+    
++!start: abroad(no) <-
+    .port(ttyACM0);
+    .percepts(open);
+    .print("ligando led");
+    .act(turnOnLight);
+    .wait(3000);
+    .print("desligando led");
+    .act(turnOffLight);
+    .wait(5000);
+    !start.
+    
++!start: abroad(yes) <-
+	.print("Aguardando transporte");
+    .wait(5000);
+    !start.
+
++!start: inside <-
+	abroad(no);
+	!start.
+
++!start <-
+  	.print("Computer, Lieutenant Commander Spock, First Officer").

@@ -1,0 +1,6 @@
+MAS planet {
+	infrastructure: Centralised
+	agents:
+		spock agentArchClass Argo;
+		kirk agentArchClass Communicator;
+}

@@ -1,0 +1,12 @@
+MAS ncc_1701 {
+
+	infrastructure: Centralised
+
+	agents:
+		murphy agentArchClass Communicator;
+		robocop;
+		
+	aslSourcePath:
+		"asl";
+
+}

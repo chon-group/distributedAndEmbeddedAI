@@ -1,0 +1,12 @@
+MAS ncc_1701 {
+
+	infrastructure: Centralised
+
+	agents:
+		scott agentArchClass Communicator;
+		spock agentArchClass Argo;
+		
+	aslSourcePath:
+		"asl";
+
+}

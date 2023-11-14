@@ -1,0 +1,37 @@
+// Agent agenteRemetente in project smaRemetente
+scott("07ba9e4a-d539-4a0e-8c14-4ac336476858").
+abroad.
+
+/* Initial beliefs and rules */
+!conf.
+
+/* Initial goals */
+
+/* Plans */
++!conf : true <-
+	.connectCN("skynet.turing.pro.br",5500,"41ff1712-b2f0-416d-8232-fef834651e77");
+	!start.
+
++!start : abroad & energizing[source(X)] <-
+    .print("Transporter ready!");
+    -energizing[source(X)];
+    +ready;
+    !start.
+
++!start : abroad & ready & scott(UUID) <-
+    -souRemetente;
+    -ready;
+	.moveOut(UUID, inquilinism, spock).
+    
++!start : abroad & scott(UUID)<-
+	.print("Kirk to Scotty...");
+	.print(UUID);
+	.sendOut(UUID, tell, beam_us_up_scotty);
+	.wait(2500);
+	!start.
+	
++!start : true <-
+    .print("Computer, Commander James T. Kirk, Enterprise's Captain");
+    .send(spock,tell,inside).
+
+

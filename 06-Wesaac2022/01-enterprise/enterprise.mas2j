@@ -1,0 +1,10 @@
+MAS enterprise {
+	infrastructure: Centralised
+	agents:
+		kirk;
+		sulu agentArchClass Argo;
+	
+	aslSourcePath:
+		"asl";
+
+}
