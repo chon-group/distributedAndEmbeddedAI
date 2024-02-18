@@ -1,0 +1,28 @@
+/* http://magjac.com/graphviz-visual-editor/ */
+digraph finite_state_machine {
+    fontname="Helvetica,Arial,sans-serif"
+    node [fontname="Helvetica,Arial,sans-serif"]
+    edge [fontname="Helvetica,Arial,sans-serif"]
+    rankdir=LR;
+    node [shape = doublecircle]; Start Stop;
+    node [shape = circle];
+    Trabalhar [label="!trabalhar \n -+estoque(C+R) \n -+energia(E-D)"]
+    Comer [label="!comer \n -+estoque(C-1) \n -+energia (E+V)"]
+    Curtir [label="!curtir \n -+energia(E-N)"]
+    Start -> Curtir;
+
+    Curtir -> Curtir [label = "E > N+T"]
+    Curtir -> Comer [label = "E <= N+T"]
+    Comer -> Curtir [label = "E >= 2*(N+T)"]
+    Comer -> Comer [label = "E < 2*(N+T) \n & \n C > 0"]
+    Comer -> Trabalhar [label = "C = 0"]
+    Trabalhar -> Comer [label = " "]
+
+    Comer -> Stop [label="C < 0"]
+    Trabalhar -> Stop [label="E < 1"]
+    Curtir -> Stop [label="E < 1"]
+
+
+    // Legenda
+    // energia(E)  noitada(N)  jornada(T)  estoque(C)
+}
