@@ -1,0 +1,1 @@
+{"id":5,"name":"stopMAS","agents":[{"archClass":"Jason","name":"smith","sourceCode":"!start.\n\n+!start <-\n\t.print(\"Goodbye Cruel World!\");\n\t.stopMAS.\n"}],"firmwares":[]}

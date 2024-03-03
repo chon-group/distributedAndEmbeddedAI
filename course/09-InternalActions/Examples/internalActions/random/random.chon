@@ -1,0 +1,1 @@
+{"id":6,"name":"random","agents":[{"archClass":"Jason","name":"bob","sourceCode":"!sortingRandomNumber(3).\n\n+!sortingRandomNumber(Round): Round>0 <- \n    .random(N); \n    .print(\"This is a RANDOM number: \", N);\n    !sortingRandomNumber(Round-1).\n\n-!sortingRandomNumber(Round)."}],"firmwares":[]}

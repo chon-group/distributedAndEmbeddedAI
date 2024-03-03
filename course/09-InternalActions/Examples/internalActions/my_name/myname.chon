@@ -1,0 +1,1 @@
+{"id":5,"name":"myname","agents":[{"archClass":"Jason","name":"smith","sourceCode":"!taskTo(jones).\n\n+!taskTo(Who): .my_name(Who) <-\n\t.print(\"Hello, I'm \", Who, \". Executing the task!\").\n\n-!taskTo(Who) <-\n\t.my_name(NAME);\n\t.print(\"Sorry, I'm not \", Who, \". I am \", NAME, \"!\")."}],"firmwares":[]}

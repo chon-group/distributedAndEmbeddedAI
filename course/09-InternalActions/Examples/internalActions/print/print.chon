@@ -1,0 +1,1 @@
+{"id":5,"name":"print","agents":[{"archClass":"Jason","name":"newAgent","sourceCode":"message(\"Never Send A Human To Do A Machine's Job!\").\n!start.\n\n+!start: message(M) <- \n\t.print(\"I talked more than \", 1, \" time, \", M)."}],"firmwares":[]}
