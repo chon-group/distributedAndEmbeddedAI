@@ -1,0 +1,1 @@
+{"id":25,"name":"aditionTestGoal","agents":[{"archClass":"Jason","name":"newAgent","sourceCode":"agent(teddy).\n\n!count.\n\n+!count <-\n\t?agent(Name);\n\t?count(N);\n\t.print(N,\". My name is \", Name,\".\");\n\t-+count(N+1);\n\t.wait(500);\n\t!count.\n\n+?count(N) <- \n\t.print(\"I need to start counting...\");\n\tN=1;\n\t+count(N+1)."}],"firmwares":[]}
