@@ -6,6 +6,15 @@
 **/bin
 **/src/test/
 
+### Documents ###
+technicalDocumentation/*.lock
+*.xlsx#
+*.docx#
+*.ods#
+*.odp#
+*.pptx#
+.tmp
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
