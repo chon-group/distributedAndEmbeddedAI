@@ -1,0 +1,7 @@
+MAS giacomoAgent {
+	infrastructure: Centralised
+	agents:
+		giacomo;
+	aslSourcePath:
+		"asl";
+}
