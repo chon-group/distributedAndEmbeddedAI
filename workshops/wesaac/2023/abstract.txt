@@ -1,0 +1,14 @@
+Introduction to Distributed and Embedded Multi-agent Systems
+
+Prof. MSc. Nilson Mori Lazarin
+nlazarin@cefet-rj.br
+http://lattes.cnpq.br/4304954704049203
+
+Prof. Dr. Carlos Eduardo Pantoja
+pantoja@cefet-rj.br
+http://lattes.cnpq.br/4343654212657424
+
+Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+UnED Nova Friburgo
+
+Abstract: Several application domains have used the Internet of Things (IoT) paradigm by using devices that perceive the real-world environment and produce raw data to be processed in the cloud. On the other hand, pervasive computing has used Artificial Intelligence (AI) paradigm to promote information extraction and decision-making at the edge computing layer. Thus, the intersection between the paradigms of AI and IoT conceived a new area of possibilities called Artificial Intelligence of Things (AIoT). Considering this scenario, we introduce the development of cognitive, autonomous, and collaborative IoT devices that are capable of perceiving, deciding, and acting in the real world, using an embedded multi-agent systems approach that allows the implementation of mental attitudes of beliefs, desires, and intentions into physical devices. In this workshop, students will understand how to use a specialized version of the Jason framework for embedded systems; they will use an Integrated Development Environment to program the Firmware and Reasoning layers of cognitive devices; they will know about a specific-purpose Operating System for embedded multi-agent systems; and finally, they will access an IoT network to allow communication between autonomous agents and cognitive hardware.

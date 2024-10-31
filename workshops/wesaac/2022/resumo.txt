@@ -1,0 +1,41 @@
+Introdução ao Desenvolvimento de Sistemas Multiagentes Embarcados
+
+Um Sistema Multiagente (SMA) Embarcado é um sistema computacional embutido ao hardware de um dispositivo, permitindo controle e monitoramento do hardware, realização de atividades e capacidade de comunicação externa com outros sistemas embarcados. O desenvolvimento de um SMA Embarcado é uma tarefa árdua, pois exige o domínio de conceitos de diversas áreas, tais como: eletrônica, composta pelos sensores e atuadores do dispositivo físico; programação de baixo nível, camada responsável pelo firmware inserido no microcontrolador para permitir a captura de medidas dos sensores e controle dos atuadores de dispositivos físicos; programação orientada a objetos, responsável pela coordenação do fluxo de informações que trafega desde o SMA até ao Hardware; e por fim, programação orientada a agentes, onde o SMA possui a responsabilidade de cognição, autonomia e tomada de decisão. Dessa forma, o projetista precisa escolher os sensores e atuadores e atentar às limitações na capacidade de processamento e armazenamento nos hardwares de baixo nível, realizar o planejamento e construção do protótipo, ter experiência com linguagens de programação de microcontroladores, mapear o ambiente exógeno para o endógeno, e programar os agentes definindo suas crenças iniciais, desejos e intenções. Além disso, é necessário experiência com o sistema operacional que roda no hardware onde o SMA será embarcado. Neste mini-curso, será explorado o desenvolvimento de SMA Embarcados utilizando uma versão spin-off do Jason para programação de agentes embarcados usando uma distribuição GNU/Linux para embarcação de sistemas cognitivos em hardware. O SMA desenvolvido conseguirá gerenciar o hardware e se comunicar através de uma rede da Internet das Coisas (IoT) para troca de mensagens e movimentação de agentes entre os sistemas.  
+
+Carlos Eduardo Pantoja é professor do CEFET/RJ e pesquisador colaborador da pós-graduação da UFF. 
+Nilson Mori Lazarin é professor do CEFET/RJ e doutorando em Computação pela UFF.
+Vinicius Souza de Jesus é mestrando em Computação pela UFF.
+Fabian César Brandão é graduado em Ciência da Computação pelo CEFET/RJ.
+
+CHON (Cognitive Hardware On Networks) é um grupo de pesquisa e desenvolvimento de tecnologias que buscam permitir e facilitar a modelagem, o projeto e a implementação de SMA Embarcados considerando o caráter multidisciplinar da abordagem.
+--------------------------------------------------------------------------------------------
+
+Pré-Requisitos
+--------------------------------------
+- JaCaMo/Jason Básico
+
+Requisitos de Instalação
+--------------------------------------
+- Computadores com leitor de cartão SD 
+- IDE Eclipse/JEdit com o Jason Embedded
+- Verificar o funcionamento da Skynet (liberação da porta TCP/UDP 5500 skynet.turing.pro.br) 
+
+Hardware:
+--------------------------------------
+- Raspberry Pi + Arduino (firmware pronto)
+- 5 Carrinhos (2 pessoas p/carro)
+- Chonos
+
+Software
+--------------------------------------
+a) solução individual
+   - Upload firmware
+   - Argo
+
+b) solução cooperativa
+   - Comunicação entre protótipos
+   - Comunicação com transferência com a SkyNet
+
+c) desafio 
+
+
