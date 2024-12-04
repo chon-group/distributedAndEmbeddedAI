@@ -1,0 +1,14 @@
+Construa dois SMA:
+SMA 1: Casa
+Agente1: Porteiro
+Agente2: Aluno
+
+SMA 2: Escola
+Agente1: Porteiro
+Agente2: Professor
+
+O agente Aluno quer executar um plano (!planoX), porém ele não tem esse conhecimento, que encontra-se com o agente professor no SMA Escola.
+
+Faça o agente aluno ir até a escola e aprender com o agente professor, retornar para o SMA Casa e Executar o plano.
+
+
