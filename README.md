@@ -1,4 +1,4 @@
-# Introduction to Distributed and Embedded Artificial Inteligence
+# Introduction to Distributed and Embedded Artificial Intelligence
 
 Several application domains have used the Internet of Things (IoT) paradigm by using devices that perceive the real-world environment and produce raw data to be processed in the cloud. On the other hand, pervasive computing has used the Artificial Intelligence (AI) paradigm to promote information extraction and decision-making at the edge computing layer.  Thus, the intersection between the paradigms of AI and IoT conceived a new area of possibilities called Artificial Intelligence of Things (AIoT). 
 
