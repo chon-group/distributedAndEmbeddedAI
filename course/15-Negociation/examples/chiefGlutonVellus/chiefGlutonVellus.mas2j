@@ -1,0 +1,9 @@
+MAS chiefGlutonVellus {
+	infrastructure: Centralised
+	agents:
+		banco;
+		comilao;
+		cozinheiro;
+	aslSourcePath:
+		"asl";
+}

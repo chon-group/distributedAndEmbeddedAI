@@ -1,0 +1,5 @@
+MAS gambler {
+    agents:
+        luckless  agentArchClass Communicator;
+    aslSourcePath: "src/agt";
+}

@@ -1,0 +1,5 @@
+MAS betHouse {
+    agents: 
+        nickSantoro agentArchClass Communicator;
+    aslSourcePath: "src/agt";
+}
