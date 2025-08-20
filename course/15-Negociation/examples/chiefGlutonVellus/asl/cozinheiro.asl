@@ -18,7 +18,7 @@ ultimoPedido(0).
 	NrPedido=N+1;
 	-+ultimoPedido(NrPedido);
 	.print("Recebi pedido",NrPedido," ...validando");
-	.velluscinum.stampTransaction(Server,MyPriv,MyPub,Pix,pagamento(NrPedido));
+	.velluscinum.stampTransaction(Server,MyPriv,MyPub,Pix);
 	+preparandoPedido;
 	!prepararPedido(NrPedido,Product,Qtd,Cliente);
 	-preparandoPedido.
