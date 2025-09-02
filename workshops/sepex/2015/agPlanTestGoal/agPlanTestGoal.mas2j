@@ -1,0 +1,10 @@
+MAS agPlanTestGoal {
+
+	infrastructure: Centralised
+
+	agents:
+		kate;
+
+	aslSourcePath:
+		"src/asl";
+}

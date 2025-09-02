@@ -1,0 +1,12 @@
+MAS agCommBroadcast {
+
+	infrastructure: Centralised
+
+	agents:
+		alice;
+		kate;
+		bob;
+		
+	aslSourcePath:
+		"src/asl";
+}

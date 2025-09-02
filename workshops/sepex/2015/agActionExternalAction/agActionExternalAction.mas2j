@@ -1,0 +1,16 @@
+MAS agActionExternalAction {
+
+	infrastructure: Centralised
+
+	environment: envGarden
+
+	agents:
+		kate;
+
+	aslSourcePath:
+		"src/asl";
+}
+
+
+
+

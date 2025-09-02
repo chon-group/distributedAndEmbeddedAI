@@ -1,0 +1,10 @@
+MAS agPlanAddition {
+
+	infrastructure: Centralised
+
+	agents:
+		kate;
+
+	aslSourcePath:
+		"src/asl";
+}

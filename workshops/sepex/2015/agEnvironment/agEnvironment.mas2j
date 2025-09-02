@@ -1,0 +1,13 @@
+MAS agEnvironment {
+
+	infrastructure: Centralised
+
+	environment: simulatedEnvironment
+
+	agents:
+		bob;
+		kate;
+
+	aslSourcePath:
+		"src/asl";
+}

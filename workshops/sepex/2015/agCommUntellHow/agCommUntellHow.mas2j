@@ -1,0 +1,11 @@
+MAS agCommUntellHow {
+
+	infrastructure: Centralised
+
+	agents:
+		kate;
+		bob;
+
+	aslSourcePath:
+		"src/asl";
+}

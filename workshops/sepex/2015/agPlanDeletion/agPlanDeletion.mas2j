@@ -1,0 +1,10 @@
+MAS agPlanDeletion {
+
+	infrastructure: Centralised
+
+	agents:
+		kate;
+
+	aslSourcePath:
+		"src/asl";
+}

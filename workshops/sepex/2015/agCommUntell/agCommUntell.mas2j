@@ -1,0 +1,11 @@
+MAS agCommUntell {
+
+	infrastructure: Centralised
+
+	agents:
+		kate;
+		bob;
+
+	aslSourcePath:
+		"src/asl";
+}

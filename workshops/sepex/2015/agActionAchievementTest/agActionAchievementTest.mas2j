@@ -1,0 +1,10 @@
+MAS agActionAchievementTest {
+
+	infrastructure: Centralised
+
+	agents:
+		kate;
+
+	aslSourcePath:
+		"src/asl";
+}

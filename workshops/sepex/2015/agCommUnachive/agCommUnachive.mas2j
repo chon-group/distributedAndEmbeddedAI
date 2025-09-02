@@ -1,0 +1,11 @@
+MAS agCommUnachive {
+
+	infrastructure: Centralised
+
+	agents:
+		kate;
+		bob;
+
+	aslSourcePath:
+		"src/asl";
+}

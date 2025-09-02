@@ -1,0 +1,11 @@
+MAS agActionBelief {
+
+	infrastructure: Centralised
+
+	agents:
+		bob;
+		kate;
+
+	aslSourcePath:
+		"src/asl";
+}
