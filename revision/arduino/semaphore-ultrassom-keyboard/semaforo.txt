@@ -1,0 +1,16 @@
+#define RP 2
+#define YP 3
+#define GP 4
+#define RS 5
+#define YS 6
+#define GS 7
+
+void setup(){
+    pinMode(RP,OUTPUT);
+    pinMode(YP,OUTPUT);
+    pinMode(GP,OUTPUT);
+    pinMode(RS,OUTPUT);
+    pinMode(YS,OUTPUT);
+    pinMode(GS,OUTPUT);
+    liberaPrincipal();
+}
