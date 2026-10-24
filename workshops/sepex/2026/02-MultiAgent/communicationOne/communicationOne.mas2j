@@ -1,0 +1,8 @@
+MAS communicationOne {
+	infrastructure: Centralised
+	agents:
+		bob;
+		ted;
+	aslSourcePath:
+		"asl";
+}
