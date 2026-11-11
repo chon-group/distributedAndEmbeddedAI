@@ -1,0 +1,7 @@
+MAS helloAgentD {
+	infrastructure: Centralised
+	agents:
+		bob;
+	aslSourcePath:
+		"asl";
+}

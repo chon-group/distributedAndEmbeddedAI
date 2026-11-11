@@ -1,0 +1,33 @@
+/*
+    examples
+    ---------------------------
+
+    JaCaMo Application File
+
+    This file defines the initial state of the MAS (initial agents, environment, organisation, ....)
+
+    (see jacamo/doc/jcm.html for more information about what can be defined in this file)
+
+    JaCaMo 1.3.0
+    abril 07, 2026 - 15:30:45
+*/
+
+mas examples {
+
+    agent bob: sample_agent.asl {
+      focus: w.c1 
+    }
+
+    workspace w {
+      artifact c1: example.Counter(3) 
+    }
+
+    organisation o: org.xml {
+      group g1 : group1 {
+        players: bob role1
+      }
+    }
+
+    
+
+}
